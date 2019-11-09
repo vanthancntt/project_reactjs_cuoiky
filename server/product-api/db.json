@@ -1,0 +1,257 @@
+{
+  "products": [
+    {
+      "name": "Canvas Shoes For Men",
+      "price": 9100000,
+      "promotion": 8750000,
+      "image": "/images/a10.jpg",
+      "name_category": "sản phẩm mới",
+      "type": "Vải",
+      "magiamgia": "GG12-2",
+      "color": "White And black",
+      "sanxuat": "Thái Lan",
+      "tinhtranghang": true,
+      "trangthai": "sản phẩm mới",
+      "id": "3"
+    },
+    {
+      "name": "Sneaker For Men's",
+      "price": 15200000,
+      "promotion": 13200000,
+      "image": "/images/a2.jpeg",
+      "name_category": "sản phẩm hot",
+      "type": "Cotton",
+      "magiamgia": "Cảm biến hình ảnh 4",
+      "color": "White And black",
+      "sanxuat": "MỸ",
+      "tinhtranghang": false,
+      "trangthai": "sản phẩm hot",
+      "id": "4"
+    },
+    {
+      "name": "Sneaker For women's",
+      "price": 15200000,
+      "promotion": 13200000,
+      "image": "/images/nu.jpg",
+      "name_category": "sản phẩm khuyến mãi",
+      "type": "Cotton",
+      "magiamgia": "Cảm biến hình ảnh 4",
+      "color": "White And black",
+      "sanxuat": "MỸ",
+      "tinhtranghang": false,
+      "trangthai": "New",
+      "id": "4"
+    },
+    {
+      "name": "Sneaker For women's",
+      "price": 15200000,
+      "promotion": 13200000,
+      "image": "/images/km.png",
+      "name_category": "sản phẩm khuyến mãi",
+      "type": "Cotton",
+      "magiamgia": "Cảm biến hình ảnh 4",
+      "color": "White And black",
+      "sanxuat": "MỸ",
+      "tinhtranghang": false,
+      "trangthai": "New",
+      "id": "4"
+    },
+    {
+      "name": "Sneaker For women's",
+      "price": 15200000,
+      "promotion": 13200000,
+      "image": "/images/km1.jpg",
+      "name_category": "sản phẩm khuyến mãi",
+      "type": "Cotton",
+      "magiamgia": "Cảm biến hình ảnh 4",
+      "color": "White And black",
+      "sanxuat": "MỸ",
+      "tinhtranghang": false,
+      "trangthai": "New",
+      "id": "4"
+    },
+    {
+      "name": "Sneaker For women's",
+      "price": 15200000,
+      "promotion": 13200000,
+      "image": "/images/men.png",
+      "name_category": "men shoes",
+      "type": "Cotton",
+      "magiamgia": "Cảm biến hình ảnh 4",
+      "color": "White And black",
+      "sanxuat": "MỸ",
+      "tinhtranghang": false,
+      "trangthai": "New",
+      "id": "4"
+    },
+    {
+      "name": "Reebok Sole Fury 00 Shoes",
+      "price": "5800000",
+      "promotion": "5400000",
+      "image": "/images/a5.jpg",
+      "name_category": "sản phẩm hot",
+      "type": "Cotton",
+      "magiamgia": "CCD HD",
+      "color": "White And black",
+      "sanxuat": "Pháp",
+      "tinhtranghang": false,
+      "trangthai": "hot",
+      "id": "As7YbfP"
+    },
+    {
+      "name": "Reebok Sole Fury 00 Shoes",
+      "price": "5800000",
+      "promotion": "5400000",
+      "image": "/images/giayhot.jpg",
+      "name_category": "sản phẩm hot",
+      "type": "Cotton",
+      "magiamgia": "CCD HD",
+      "color": "White And black",
+      "sanxuat": "Pháp",
+      "tinhtranghang": false,
+      "trangthai": "hot",
+      "id": "As7YbfP"
+    },
+    {
+      "name": "Vans VN-0LYGCK2",
+      "price": "300000",
+      "promotion": "2500000",
+      "image": "/images/a1.jpeg",
+      "name_category": "men shoes",
+      "type": "Real",
+      "magiamgia": "SSD 1520",
+      "color": "White And black",
+      "sanxuat": "Canada",
+      "tinhtranghang": true,
+      "trangthai": "sản phẩm khuyến mãi",
+      "id": "X4PbNbu"
+    },
+    {
+      "name": "Sneaker For Men's",
+      "price": "6000000",
+      "promotion": "5000000",
+      "image": "/images/a7.jpg",
+      "name_category": "women shoes",
+      "type": "nữ",
+      "magiamgia": "NU-456",
+      "color": "ĐEN",
+      "sanxuat": "nike",
+      "tinhtranghang": true,
+      "trangthai": "tot",
+      "id": "h2s8s8L"
+    },
+    {
+      "name": "Sneaker For Men's",
+      "price": "300000",
+      "promotion": "100000",
+      "image": "/images/a11.jpg",
+      "name_category": "men shoes",
+      "type": "Fake",
+      "magiamgia": "SSD 1520",
+      "color": "White And black",
+      "sanxuat": "Pháp",
+      "tinhtranghang": false,
+      "trangthai": "hot",
+      "id": "1lUIMb0"
+    },
+    {
+      "name": "Sneaker For Men's",
+      "price": "6000000",
+      "promotion": "5000000",
+      "image": "/images/nu1.jpg",
+      "name_category": "women shoes",
+      "type": "nữ",
+      "magiamgia": "NU-456",
+      "color": "ĐEN",
+      "sanxuat": "nike",
+      "tinhtranghang": true,
+      "trangthai": "tot",
+      "id": "h2s8s8L"
+    },
+    {
+      "name": "Sneaker For Men's",
+      "price": "6000000",
+      "promotion": "5000000",
+      "image": "/images/a1.jpg",
+      "name_category": "sản phẩm mới",
+      "type": "nữ",
+      "magiamgia": "NU-456",
+      "color": "ĐEN",
+      "sanxuat": "nike",
+      "tinhtranghang": true,
+      "trangthai": "tot",
+      "id": "h2s8s8L"
+    },
+    {
+      "name": "Sneaker For Men's",
+      "price": "6000000",
+      "promotion": "5000000",
+      "image": "/images/a12.jpg",
+      "name_category": "sản phẩm mới",
+      "type": "nữ",
+      "magiamgia": "NU-456",
+      "color": "ĐEN",
+      "sanxuat": "nike",
+      "tinhtranghang": true,
+      "trangthai": "tot",
+      "id": "h2s8s8L"
+    },
+    {
+      "name": "Sneaker For Men's",
+      "price": "6000000",
+      "promotion": "5000000",
+      "image": "/images/nu.jpg",
+      "name_category": "women shoes",
+      "type": "nữ",
+      "magiamgia": "NU-456",
+      "color": "ĐEN",
+      "sanxuat": "nike",
+      "tinhtranghang": true,
+      "trangthai": "tot",
+      "id": "h2s8s8L"
+    },
+    {
+      "name": "truong nghia",
+      "price": "1000",
+      "promotion": "222",
+      "image": "/images/a2.jpeg",
+      "name_category": "shoe",
+      "type": "real",
+      "magiamgia": "hoi",
+      "color": "trang",
+      "sanxuat": "ivietnam",
+      "tinhtranghang": true,
+      "trangthai": "moi",
+      "id": "e-EebBt"
+    }
+  ],
+  "account": [
+    {
+      "id": "1",
+      "user": "admin",
+      "password": "123456"
+    }
+  ],
+  "category": [
+    {
+      "id": "4",
+      "tendm": "men shoes"
+    },
+    {
+      "id": "5",
+      "tendm": "women shoes"
+    },
+    {
+      "id": "1",
+      "tendm": "sản phẩm mới"
+    },
+    {
+      "id": "2",
+      "tendm": "sản phẩm hot"
+    },
+    {
+      "id": "3",
+      "tendm": "sản phẩm khuyến mãi"
+    }
+  ]
+}

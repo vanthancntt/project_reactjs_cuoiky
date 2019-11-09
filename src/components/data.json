@@ -1,0 +1,41 @@
+{
+    "persons":
+    [
+        {
+            "id" : 3,
+            "ten" : "Hội",
+            "full" : "Nguyễn Phúc Hội",
+            "mota" : "Thiết kế phần phân công công việc(Create,Men's and women's shoes,Loginadmin...)",
+            "anh" : "images/hoi.jpg"
+        },
+        {
+            "id" : 1,
+            "ten" : "Diệu",
+            "full" : "Nguyễn Viết Diệu",
+            "mota" : "Route (sản phẩm mới, sản phẩm hot), chỉnh sửa giao diện, chi tiết sản phẩm",
+            "anh" : "images/dieu.jpg" 
+        },
+        {
+            "id" : 2,
+            "ten" : "Nghĩa",
+            "full" : "Trương Nghĩa",
+            "mota" : "Sửa sản phẩm, xóa sản phẩm, tìm kiếm",
+            "anh" : "images/nghia.jpg"
+        },
+        
+        {
+            "id" : 5,
+            "ten" : "Sơn",
+            "full" : "Trần Nam Sơn",
+            "mota" : "Sửa sản phẩm, xóa sản phẩm, tìm kiếm",
+            "anh" : "images/son.jpg"
+        },
+        {
+            "id" : 4,
+            "ten" : "Thản",
+            "full" : "Phùng Văn Thản",
+            "mota" : "Sản phẩm khuyến mãi, chi tiết sản phẩm",
+            "anh" : "images/than.jpg"
+        }
+    ]
+}
